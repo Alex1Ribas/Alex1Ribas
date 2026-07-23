@@ -38,48 +38,71 @@ Meu papel não é apenas implementar funcionalidades, mas ajudar a transformar n
 
 ## 🛠️ Stack Principal
 
-### Backend
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" /><br>
+      <b>Node.js</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" /><br>
+      <b>TypeScript</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" /><br>
+      <b>Express</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" /><br>
+      <b>React</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" /><br>
+      <b>Vite</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" /><br>
+      <b>Tailwind</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" /><br>
+      <b>MongoDB</b>
+    </td>
+  </tr>
 
-- Node.js
-- TypeScript
-- Express
-- REST API
-- OpenAPI (Swagger)
-- Clean Architecture
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" /><br>
+      <b>AWS</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" /><br>
+      <b>Vercel</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" /><br>
+      <b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" /><br>
+      <b>GitHub</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest" /><br>
+      <b>Jest</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=githubactions" /><br>
+      <b>CI/CD</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=eslint" /><br>
+      <b>ESLint</b>
+    </td>
+  </tr>
+</table>
 
-### Frontend
-
-- React
-- React Native (Expo)
-- TypeScript
-- Vite
-- TailwindCSS
-- Zustand
-- React Query
-- React Router
-
-### Banco de Dados
-
-- MongoDB
-- Mongoose
-
-### Infraestrutura
-
-- AWS (S3, CloudWatch, Cognito)
-- Vercel
-
-### Ferramentas
-
-- Git / GitHub
-- Jest
-- Supertest
-- Jira
-- Trello
-- ESLint
-- CI/CD
-
----
-
+**Também utilizo:** React Native (Expo) • React Query • React Router • Zustand • Mongoose • Supertest • OpenAPI (Swagger) • Clean Architecture • Jira • Trello
 ## 🧠 Como eu trabalho
 
 Meu processo normalmente segue esta ordem:
